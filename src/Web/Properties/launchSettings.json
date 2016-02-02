@@ -1,0 +1,25 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:19411/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "DNX Dev": {
+      "commandName": "dev"
+    },
+    "DNX Staging": {
+      "commandName": "staging"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "Hosting:Environment": "Development"
+      }
+    }
+  }
+}
