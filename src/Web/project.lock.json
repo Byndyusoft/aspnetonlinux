@@ -1675,7 +1675,7 @@
           "lib/net45/_._": {}
         }
       },
-      "Web.Appliaction/1.0.0": {
+      "Web.Application/1.0.0": {
         "type": "project",
         "framework": ".NETFramework,Version=v4.5.1",
         "dependencies": {
@@ -4093,7 +4093,7 @@
           "lib/dotnet5.4/System.Xml.XDocument.dll": {}
         }
       },
-      "Web.Appliaction/1.0.0": {
+      "Web.Application/1.0.0": {
         "type": "project",
         "framework": ".NETPlatform,Version=v5.4",
         "dependencies": {
@@ -5795,7 +5795,7 @@
           "lib/net45/_._": {}
         }
       },
-      "Web.Appliaction/1.0.0": {
+      "Web.Application/1.0.0": {
         "type": "project",
         "framework": ".NETFramework,Version=v4.5.1",
         "dependencies": {
@@ -7485,7 +7485,7 @@
           "lib/net45/_._": {}
         }
       },
-      "Web.Appliaction/1.0.0": {
+      "Web.Application/1.0.0": {
         "type": "project",
         "framework": ".NETFramework,Version=v4.5.1",
         "dependencies": {
@@ -10234,7 +10234,7 @@
           "lib/dotnet5.4/System.Xml.XDocument.dll": {}
         }
       },
-      "Web.Appliaction/1.0.0": {
+      "Web.Application/1.0.0": {
         "type": "project",
         "framework": ".NETPlatform,Version=v5.4",
         "dependencies": {
@@ -12995,7 +12995,7 @@
           "lib/dotnet5.4/System.Xml.XDocument.dll": {}
         }
       },
-      "Web.Appliaction/1.0.0": {
+      "Web.Application/1.0.0": {
         "type": "project",
         "framework": ".NETPlatform,Version=v5.4",
         "dependencies": {
@@ -13023,9 +13023,9 @@
     }
   },
   "libraries": {
-    "Web.Appliaction/1.0.0": {
+    "Web.Application/1.0.0": {
       "type": "project",
-      "path": "../Web.Appliaction/project.json"
+      "path": "../Web.Application/project.json"
     },
     "Web.Domain/1.0.0": {
       "type": "project",
@@ -18148,7 +18148,7 @@
       "Microsoft.Extensions.Logging.Debug >= 1.0.0-rc1-final",
       "Microsoft.VisualStudio.Web.BrowserLink.Loader >= 14.0.0-rc1-final",
       "Web.Domain >= 1.0.0-*",
-      "Web.Appliaction >= 1.0.0-*"
+      "Web.Application >= 1.0.0-*"
     ],
     "DNX,Version=v4.5.1": [],
     "DNXCore,Version=v5.0": []

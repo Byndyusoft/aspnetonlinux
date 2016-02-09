@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Web", "src\Web\Web.xproj", "{0B032975-6856-4887-AF08-2A9FC9F332BF}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Web.Appliaction", "src\Web.Appliaction\Web.Appliaction.xproj", "{14217923-BADC-46D5-89DB-C0A927D83657}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Web.Application", "src\Web.Application\Web.Application.xproj", "{14217923-BADC-46D5-89DB-C0A927D83657}"
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Web.Domain", "src\Web.Domain\Web.Domain.xproj", "{2D5CEC24-D230-4B1D-894E-0FE848EA360D}"
 EndProject
