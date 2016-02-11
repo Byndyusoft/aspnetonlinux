@@ -18,7 +18,7 @@
     "Microsoft.Extensions.Logging.Debug": "1.0.0-rc1-final",
     "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0-rc1-final",
     "Web.Domain": "1.0.0-*",
-    "Web.Appliaction" : "1.0.0-*"
+    "Web.Application" : "1.0.0-*"
   },
 
   "configurations": {
